@@ -13,7 +13,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  Color yashil = Color(0xff00ff00);
+  Color Yashil123 = Color(0xff00ff00);
   bool test = true;
 
   @override
@@ -92,7 +92,7 @@ class _HomePageState extends State<HomePage> {
                 child: TextField(
                   style: TextStyle(fontSize: 20, color: Colors.black),
                   decoration: InputDecoration(
-                    hintText: "one".tr(),
+                    hintText: "example.one".tr(),
                     prefixIcon: Icon(
                       Icons.search,
                       color: Colors.grey,
@@ -110,15 +110,15 @@ class _HomePageState extends State<HomePage> {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     Text(
-                      'two',
+                      'example.two',
                       style:
                           TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
                     ).tr(),
                     GestureDetector(
                       onTap: () {},
                       child: Text(
-                        "three",
-                        style: TextStyle(fontSize: 20, color: yashil),
+                        "example.three",
+                        style: TextStyle(fontSize: 20, color: Yashil123),
                       ).tr(),
                     )
                   ],
@@ -188,7 +188,7 @@ class _HomePageState extends State<HomePage> {
                             color: Colors.white,
                             fontWeight: FontWeight.bold),
                       ).tr(),
-                    )
+                    ),
                   ],
                 ),
               ),

@@ -1,7 +1,9 @@
 {
-  "one" : "Qidiruv xizmatlari",
-  "two" : "Ommabop xizmatlar",
-  "three" : "Hammasini ko'rish",
+  "example" : {
+    "one" : "Qidiruv xizmatlari",
+    "two" : "Ommabop xizmatlar",
+    "three" : "Hammasini ko'rish"
+  },
   "4" : "Logotip dizayni",
   "5" : "Logotip animatsiyasi",
   "6" : "Vizitkalar va kantselyariya tovarlari",
