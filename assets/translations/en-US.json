@@ -1,14 +1,23 @@
 {
-  "example" : {
-    "one" : "Search services",
-    "two" : "Popular Services",
-    "three" : "See All"
+  "example": {
+    "one": "Search services",
+    "two": "Popular Services",
+    "three": "See All"
   },
-  "4" : "Logo Design",
-  "5" : "Logo Animation",
-  "6" : "Business Cards & Stationery",
-  "7" : "Influencer Marketing",
-  "8" : "Web Traffic",
-  "9" : "MADE ON FIVERR",
-  "10" : "Explore beautiful work, picked for you."
+  "Inbox": {
+    "inbox1": "No messages yet \nStart a conversation with \n freelancers, and get the job done."
+  },
+  "Manage_orders" : {
+    "manage1" : "No Orders Yet",
+    "manage2" : "Find the right talent for you.",
+    "manage3" : "Explore the Matketplace"
+  },
+
+  "4": "Logo Design",
+  "5": "Logo Animation",
+  "6": "Business Cards & Stationery",
+  "7": "Influencer Marketing",
+  "8": "Web Traffic",
+  "9": "MADE ON FIVERR",
+  "10": "Explore beautiful work, picked for you."
 }

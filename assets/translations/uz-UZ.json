@@ -4,6 +4,14 @@
     "two" : "Ommabop xizmatlar",
     "three" : "Hammasini ko'rish"
   },
+  "Inbox": {
+    "inbox1": "Hali hech qanday xabar yo'q \nFrilanserlar bilan suhbatni \nboshlang va ishni bajaring."
+  },
+  "Manage_orders" : {
+    "manage1" : "Hozircha buyurtmalar yoʻq",
+    "manage2" : "Siz uchun to'g'ri iste'dodni toping.",
+    "manage3" : "Bozorni o'rganing"
+  },
   "4" : "Logotip dizayni",
   "5" : "Logotip animatsiyasi",
   "6" : "Vizitkalar va kantselyariya tovarlari",

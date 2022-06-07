@@ -13,7 +13,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  Color Yashil123 = Color(0xff00ff00);
+  Color yashil = Color(0xff00ff00);
   bool test = true;
 
   @override
@@ -118,7 +118,7 @@ class _HomePageState extends State<HomePage> {
                       onTap: () {},
                       child: Text(
                         "example.three",
-                        style: TextStyle(fontSize: 20, color: Yashil123),
+                        style: TextStyle(fontSize: 20, color: yashil),
                       ).tr(),
                     )
                   ],
